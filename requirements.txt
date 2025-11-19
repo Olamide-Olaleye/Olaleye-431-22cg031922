@@ -1,1 +1,5 @@
-Flask gunicorn
+Flask==3.0.0
+sympy==1.12
+Werkzeug==3.0.1
+gunicorn==21.2.0
+
